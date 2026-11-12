@@ -1,6 +1,6 @@
 cask "pigeon" do
-  version "0.8.0"
-  sha256 "0f9592df73f3c0802c50fc98140ef2d954bd599c6215d1c77ae1655efaa415fa"
+  version "0.8.1"
+  sha256 "4c2164a5defcc4bda4e231fcdb737a10c4de988714b60142f7fa171b731183ca"
 
   url "https://github.com/tahirjaved1/pigeon/releases/download/v#{version}/Pigeon-#{version}.dmg"
   name "Pigeon"
